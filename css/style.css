@@ -33,6 +33,7 @@ h1 {
     color: white;
     height: 64px; /* ich: height appbar */
     font-size: 20px; /*ich: font-size like materials design*/
+    font-weight: 500; /*ich: font-weight like materials design*/
     position:relative; /*ich*/
     padding-left: 72px; /*ich*/
     line-height: 64px; /*ich*//**/
