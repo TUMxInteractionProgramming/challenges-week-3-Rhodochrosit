@@ -156,5 +156,5 @@ li img {
 /* ich: chat to the right shift*/
 #chat {position: absolute; top: 0px; right: 0px; height 100%; width: 60%;}
 
-/*ich: versuch icon zu verschieben*/
-h1 img {position: absolute; left: 0px; bottom: 0px;}
+/*ich: pushing moocus*/
+h1 img {position: absolute; left: 16px; bottom: 0px;}
